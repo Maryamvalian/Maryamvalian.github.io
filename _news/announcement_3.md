@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Excited to announce the launch of my personal website—a platform to share my research, teaching experiences, and passion for computer science! :sparkles: :smile:
