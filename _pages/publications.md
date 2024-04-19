@@ -11,5 +11,14 @@ nav_order: 2
 <div class="publications">
 
 {% bibliography %}
+@article{khanteymoori2018novel,
+  title={A novel method for Bayesian networks structure learning based on Breeding Swarm algorithm},
+  author={Khanteymoori, Ali Reza and Olyaee, Mohammad-H and Abbaszadeh, Omid and Valian, Maryam},
+  journal={Soft Computing},
+  volume={22},
+  pages={3049--3060},
+  year={2018},
+  publisher={Springer}
+}
 
 </div>
