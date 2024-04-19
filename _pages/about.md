@@ -2,11 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Candidate at<a href=''>Database Theory and Engineering Lab</a>
-<p>Computer Science,
-Computing And Software (CAS) Department
-McMaster University
-1280 Main St W, Hamilton, ON L8S 4L8. </p>
+subtitle: <a href=''>Database Theory and Engineering Lab</a>
+
 
 profile:
   align: right
