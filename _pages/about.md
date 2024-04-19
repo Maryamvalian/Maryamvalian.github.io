@@ -13,7 +13,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Contact:<a href=''> valianm@McMaster.CA</a></p>
+    <p>Contact<a href=''> valianm@McMaster.CA</a></p>
     <p>ITB 206</p>
     <p></p>
 
