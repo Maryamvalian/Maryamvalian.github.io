@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<p> Computer Science, <br>
+<p> Computer Science <br>
 Computing And Software (CAS) Department <br>
 McMaster University <br>
 1280 Main St W, Hamilton, ON L8S 4L8.</p>
