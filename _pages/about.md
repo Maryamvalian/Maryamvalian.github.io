@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href=''>Database Theory and Engineering Lab</a>
+subtitle: <a href=''>PhD Student</a>
 
 
 profile:
