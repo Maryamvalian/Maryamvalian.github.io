@@ -24,5 +24,5 @@ Computing And Software (CAS) Department <br>
 McMaster University <br>
 1280 Main St W, Hamilton, ON L8S 4L8.</p>
 
-Hi, I’m Maryam Valian, a passionate educator and a PhD candidate at McMaster University, working in <a href='http://christianbrodbeck.net'>Dr. Christian Brodbeck’s lab</a>. Our research is dedicated to uncovering the mysteries of the brain using cutting-edge computational techniques—a thrilling intersection of neuroscience and computer science. 
+Hi, I’m Maryam Valian, a passionate educator and a PhD candidate at McMaster University, working in <a href='http://christianbrodbeck.net'>Dr. Christian Brodbeck’s lab</a>. Our research is dedicated to uncovering the mysteries of the brain using cutting-edge computational techniques, a thrilling intersection of neuroscience and computer science. 
 <p>With over 10 years of teaching experience, I love sharing my knowledge and inspiring students in computer science courses. Teaching is more than a profession for me; it’s my passion, and I’m excited to keep making an impact both in the classroom and in research. </p>
